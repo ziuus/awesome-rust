@@ -754,6 +754,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient duplicate file finder and remover
 * [pop-os/popsicle](https://github.com/pop-os/popsicle) - GTK3 & CLI utility for flashing multiple USB devices in parallel
 * [pop-os/system76-power](https://github.com/pop-os/system76-power/) - Linux power management daemon (DBus-interface) with CLI tool.
+* [settings-tui](https://github.com/ziuus/settings-tui) - Hyper-lightweight universal Linux Settings Center TUI (<9MB, near 0% CPU) with D-Bus, WirePlumber, BlueZ, Hyprland, and UPower integration
 * [pueue](https://github.com/nukesor/pueue) - Manage your long running shell commands. [![GitHub Actions Workflow](https://github.com/Nukesor/pueue/actions/workflows/test.yml/badge.svg)](https://github.com/nukesor/pueue/actions)
 * [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi-functional app to find duplicates, empty folders, similar images, etc. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions)
 * [redox-os/ion](https://github.com/redox-os/ion) - Next-generation system shell
